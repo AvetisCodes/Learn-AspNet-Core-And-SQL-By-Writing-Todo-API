@@ -1,0 +1,28 @@
+C:\Users\training\Desktop\ToDo\ToDo.Identity\bin\Debug\netcoreapp3.1\ToDo.Identity.deps.json
+C:\Users\training\Desktop\ToDo\ToDo.Identity\bin\Debug\netcoreapp3.1\ToDo.Identity.dll
+C:\Users\training\Desktop\ToDo\ToDo.Identity\bin\Debug\netcoreapp3.1\ToDo.Identity.pdb
+C:\Users\training\Desktop\ToDo\ToDo.Identity\bin\Debug\netcoreapp3.1\ToDo.Models.dll
+C:\Users\training\Desktop\ToDo\ToDo.Identity\bin\Debug\netcoreapp3.1\ToDo.Repository.dll
+C:\Users\training\Desktop\ToDo\ToDo.Identity\bin\Debug\netcoreapp3.1\ToDo.Models.pdb
+C:\Users\training\Desktop\ToDo\ToDo.Identity\bin\Debug\netcoreapp3.1\ToDo.Repository.pdb
+C:\Users\training\Desktop\ToDo\ToDo.Identity\obj\Debug\netcoreapp3.1\ToDo.Identity.csprojAssemblyReference.cache
+C:\Users\training\Desktop\ToDo\ToDo.Identity\obj\Debug\netcoreapp3.1\ToDo.Identity.AssemblyInfoInputs.cache
+C:\Users\training\Desktop\ToDo\ToDo.Identity\obj\Debug\netcoreapp3.1\ToDo.Identity.AssemblyInfo.cs
+C:\Users\training\Desktop\ToDo\ToDo.Identity\obj\Debug\netcoreapp3.1\ToDo.Identity.csproj.CoreCompileInputs.cache
+C:\Users\training\Desktop\ToDo\ToDo.Identity\obj\Debug\netcoreapp3.1\ToDo.Identity.csproj.CopyComplete
+C:\Users\training\Desktop\ToDo\ToDo.Identity\obj\Debug\netcoreapp3.1\ToDo.Identity.dll
+C:\Users\training\Desktop\ToDo\ToDo.Identity\obj\Debug\netcoreapp3.1\ToDo.Identity.pdb
+C:\Users\training\Desktop\ToDo API\ToDo.Identity\bin\Debug\netcoreapp3.1\ToDo.Identity.deps.json
+C:\Users\training\Desktop\ToDo API\ToDo.Identity\bin\Debug\netcoreapp3.1\ToDo.Identity.dll
+C:\Users\training\Desktop\ToDo API\ToDo.Identity\bin\Debug\netcoreapp3.1\ToDo.Identity.pdb
+C:\Users\training\Desktop\ToDo API\ToDo.Identity\bin\Debug\netcoreapp3.1\ToDo.Models.dll
+C:\Users\training\Desktop\ToDo API\ToDo.Identity\bin\Debug\netcoreapp3.1\ToDo.Repository.dll
+C:\Users\training\Desktop\ToDo API\ToDo.Identity\bin\Debug\netcoreapp3.1\ToDo.Models.pdb
+C:\Users\training\Desktop\ToDo API\ToDo.Identity\bin\Debug\netcoreapp3.1\ToDo.Repository.pdb
+C:\Users\training\Desktop\ToDo API\ToDo.Identity\obj\Debug\netcoreapp3.1\ToDo.Identity.csprojAssemblyReference.cache
+C:\Users\training\Desktop\ToDo API\ToDo.Identity\obj\Debug\netcoreapp3.1\ToDo.Identity.AssemblyInfoInputs.cache
+C:\Users\training\Desktop\ToDo API\ToDo.Identity\obj\Debug\netcoreapp3.1\ToDo.Identity.AssemblyInfo.cs
+C:\Users\training\Desktop\ToDo API\ToDo.Identity\obj\Debug\netcoreapp3.1\ToDo.Identity.csproj.CoreCompileInputs.cache
+C:\Users\training\Desktop\ToDo API\ToDo.Identity\obj\Debug\netcoreapp3.1\ToDo.Identity.csproj.CopyComplete
+C:\Users\training\Desktop\ToDo API\ToDo.Identity\obj\Debug\netcoreapp3.1\ToDo.Identity.dll
+C:\Users\training\Desktop\ToDo API\ToDo.Identity\obj\Debug\netcoreapp3.1\ToDo.Identity.pdb

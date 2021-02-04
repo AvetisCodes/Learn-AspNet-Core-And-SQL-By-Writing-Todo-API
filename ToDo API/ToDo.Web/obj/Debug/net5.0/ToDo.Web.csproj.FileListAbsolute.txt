@@ -1,0 +1,94 @@
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\ToDo.Web.exe
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\ToDo.Web.deps.json
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\ToDo.Web.runtimeconfig.json
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\ToDo.Web.runtimeconfig.dev.json
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\ToDo.Web.dll
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\ref\ToDo.Web.dll
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\ToDo.Web.pdb
+C:\Users\training\Desktop\ToDo\ToDo.Web\obj\Debug\net5.0\ToDo.Web.csprojAssemblyReference.cache
+C:\Users\training\Desktop\ToDo\ToDo.Web\obj\Debug\net5.0\ToDo.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\training\Desktop\ToDo\ToDo.Web\obj\Debug\net5.0\ToDo.Web.AssemblyInfoInputs.cache
+C:\Users\training\Desktop\ToDo\ToDo.Web\obj\Debug\net5.0\ToDo.Web.AssemblyInfo.cs
+C:\Users\training\Desktop\ToDo\ToDo.Web\obj\Debug\net5.0\ToDo.Web.csproj.CoreCompileInputs.cache
+C:\Users\training\Desktop\ToDo\ToDo.Web\obj\Debug\net5.0\ToDo.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\training\Desktop\ToDo\ToDo.Web\obj\Debug\net5.0\staticwebassets\ToDo.Web.StaticWebAssets.Manifest.cache
+C:\Users\training\Desktop\ToDo\ToDo.Web\obj\Debug\net5.0\staticwebassets\ToDo.Web.StaticWebAssets.xml
+C:\Users\training\Desktop\ToDo\ToDo.Web\obj\Debug\net5.0\scopedcss\bundle\ToDo.Web.styles.css
+C:\Users\training\Desktop\ToDo\ToDo.Web\obj\Debug\net5.0\ToDo.Web.RazorTargetAssemblyInfo.cache
+C:\Users\training\Desktop\ToDo\ToDo.Web\obj\Debug\net5.0\ToDo.Web.dll
+C:\Users\training\Desktop\ToDo\ToDo.Web\obj\Debug\net5.0\ref\ToDo.Web.dll
+C:\Users\training\Desktop\ToDo\ToDo.Web\obj\Debug\net5.0\ToDo.Web.pdb
+C:\Users\training\Desktop\ToDo\ToDo.Web\obj\Debug\net5.0\ToDo.Web.genruntimeconfig.cache
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\Dapper.dll
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\ToDo.Models.dll
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\ToDo.Repository.dll
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\ToDo.Services.dll
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\ToDo.Repository.pdb
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\ToDo.Services.pdb
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\ToDo.Models.pdb
+C:\Users\training\Desktop\ToDo\ToDo.Web\obj\Debug\net5.0\ToDo.Web.csproj.CopyComplete
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\ToDo.Identity.dll
+C:\Users\training\Desktop\ToDo\ToDo.Web\bin\Debug\net5.0\ToDo.Identity.pdb
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\ToDo.Web.exe
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\ToDo.Web.deps.json
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\ToDo.Web.runtimeconfig.json
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\ToDo.Web.runtimeconfig.dev.json
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\ToDo.Web.dll
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\ref\ToDo.Web.dll
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\ToDo.Web.pdb
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\Dapper.dll
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\ToDo.Identity.dll
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\ToDo.Models.dll
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\ToDo.Repository.dll
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\ToDo.Services.dll
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\ToDo.Identity.pdb
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\ToDo.Repository.pdb
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\ToDo.Services.pdb
+C:\Users\training\Desktop\ToDo API\ToDo.Web\bin\Debug\net5.0\ToDo.Models.pdb
+C:\Users\training\Desktop\ToDo API\ToDo.Web\obj\Debug\net5.0\ToDo.Web.csprojAssemblyReference.cache
+C:\Users\training\Desktop\ToDo API\ToDo.Web\obj\Debug\net5.0\ToDo.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\training\Desktop\ToDo API\ToDo.Web\obj\Debug\net5.0\ToDo.Web.AssemblyInfoInputs.cache
+C:\Users\training\Desktop\ToDo API\ToDo.Web\obj\Debug\net5.0\ToDo.Web.AssemblyInfo.cs
+C:\Users\training\Desktop\ToDo API\ToDo.Web\obj\Debug\net5.0\ToDo.Web.csproj.CoreCompileInputs.cache
+C:\Users\training\Desktop\ToDo API\ToDo.Web\obj\Debug\net5.0\ToDo.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\training\Desktop\ToDo API\ToDo.Web\obj\Debug\net5.0\staticwebassets\ToDo.Web.StaticWebAssets.Manifest.cache
+C:\Users\training\Desktop\ToDo API\ToDo.Web\obj\Debug\net5.0\staticwebassets\ToDo.Web.StaticWebAssets.xml
+C:\Users\training\Desktop\ToDo API\ToDo.Web\obj\Debug\net5.0\scopedcss\bundle\ToDo.Web.styles.css
+C:\Users\training\Desktop\ToDo API\ToDo.Web\obj\Debug\net5.0\ToDo.Web.RazorTargetAssemblyInfo.cache
+C:\Users\training\Desktop\ToDo API\ToDo.Web\obj\Debug\net5.0\ToDo.Web.csproj.CopyComplete
+C:\Users\training\Desktop\ToDo API\ToDo.Web\obj\Debug\net5.0\ToDo.Web.dll
+C:\Users\training\Desktop\ToDo API\ToDo.Web\obj\Debug\net5.0\ref\ToDo.Web.dll
+C:\Users\training\Desktop\ToDo API\ToDo.Web\obj\Debug\net5.0\ToDo.Web.pdb
+C:\Users\training\Desktop\ToDo API\ToDo.Web\obj\Debug\net5.0\ToDo.Web.genruntimeconfig.cache

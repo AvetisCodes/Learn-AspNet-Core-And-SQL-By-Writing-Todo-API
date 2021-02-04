@@ -1,0 +1,273 @@
+{
+	"info": {
+		"_postman_id": "07ce1af2-8ce1-4cc7-b5cd-b6ffba5cef01",
+		"name": "ToDo API",
+		"description": "These are some critical API calls going against the ToDo API. ",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Account",
+			"item": [
+				{
+					"name": "register",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"Username\": \"ToDoUser1\",\r\n    \"Password\": \"Password12345\",\r\n    \"Fullname\": \"Vlad Jones\",\r\n    \"Email\": \"ToDoUser@example.com\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{WebApi}}/Account/register",
+							"host": [
+								"{{WebApi}}"
+							],
+							"path": [
+								"Account",
+								"register"
+							]
+						},
+						"description": "Allows user to register an account."
+					},
+					"response": []
+				},
+				{
+					"name": "login",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"var jsonData = JSON.parse(pm.response.text());\r",
+									"pm.environment.set(\"Token\", jsonData.token);\r",
+									"pm.environment.set(\"NextNewApplicationUserId\", jsonData.applicationUserId);"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"Username\": \"ToDoUser1\",\r\n    \"Password\": \"Password12345\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{WebApi}}/Account/login",
+							"host": [
+								"{{WebApi}}"
+							],
+							"path": [
+								"Account",
+								"login"
+							]
+						},
+						"description": "Allows user login to an existing account."
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "ToDo",
+			"item": [
+				{
+					"name": "upsert",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"var jsonData = JSON.parse(pm.response.text());\r",
+									"pm.environment.set(\"NextNewToDoId\", jsonData.userToDoId);"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{Token}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"UserToDoId\": -1,\r\n    \"Title\": \"More business\",\r\n    \"Description\": \"I need to finish up my business taxes.\",\r\n    \"CategoryId\": 2\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{WebApi}}/UserToDo",
+							"host": [
+								"{{WebApi}}"
+							],
+							"path": [
+								"UserToDo"
+							]
+						},
+						"description": "Allows for creation and updating of a todo."
+					},
+					"response": []
+				},
+				{
+					"name": "get all by user id",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{Token}}",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{WebApi}}/UserToDo",
+							"host": [
+								"{{WebApi}}"
+							],
+							"path": [
+								"UserToDo"
+							]
+						},
+						"description": "Allows for displaying of all the user todos."
+					},
+					"response": []
+				},
+				{
+					"name": "get all user completed",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"type": "text",
+								"value": "Bearer {{Token}}"
+							}
+						],
+						"url": {
+							"raw": "{{WebApi}}/UserToDo/completed",
+							"host": [
+								"{{WebApi}}"
+							],
+							"path": [
+								"UserToDo",
+								"completed"
+							]
+						},
+						"description": "Allows for displaying of all the completed user todos."
+					},
+					"response": []
+				},
+				{
+					"name": "delete",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{Token}}",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{WebApi}}/UserToDo/{{NextNewToDoId}}",
+							"host": [
+								"{{WebApi}}"
+							],
+							"path": [
+								"UserToDo",
+								"{{NextNewToDoId}}"
+							]
+						},
+						"description": "Allows for deleting of a todo."
+					},
+					"response": []
+				}
+			],
+			"description": "Allows for performing of todo operations.",
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			]
+		},
+		{
+			"name": "Category",
+			"item": [
+				{
+					"name": "get all",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{WebApi}}/Category",
+							"host": [
+								"{{WebApi}}"
+							],
+							"path": [
+								"Category"
+							]
+						},
+						"description": "Allows for getting all of the existing categories."
+					},
+					"response": []
+				}
+			],
+			"description": "Allows for performing of category operations.",
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			]
+		}
+	]
+}
